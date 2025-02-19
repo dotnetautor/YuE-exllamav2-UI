@@ -30,6 +30,7 @@ MODELS_EXL2["YuE-s1-7B-anneal-en-cot-exl2-4.0bpw"]="Alissonerdx/YuE-s1-7B-anneal
 MODELS_EXL2["YuE-s1-7B-anneal-en-cot-exl2-5.0bpw"]="Alissonerdx/YuE-s1-7B-anneal-en-cot-exl2-5.0bpw:${MODEL_DIR}/YuE-s1-7B-anneal-en-cot-exl2-5.0bpw"
 MODELS_EXL2["YuE-s1-7B-anneal-en-cot-exl2-6.0bpw"]="Alissonerdx/YuE-s1-7B-anneal-en-cot-exl2-6.0bpw:${MODEL_DIR}/YuE-s1-7B-anneal-en-cot-exl2-6.0bpw"
 MODELS_EXL2["YuE-s1-7B-anneal-en-cot-exl2-8.0bpw"]="Alissonerdx/YuE-s1-7B-anneal-en-cot-exl2-8.0bpw:${MODEL_DIR}/YuE-s1-7B-anneal-en-cot-exl2-8.0bpw"
+MODELS_EXL2["YuE-s1-7B-anneal-en-icl-exl2-8.0bpw"]="Ftfyhh/YuE-s1-7B-anneal-en-icl-8.0bpw-exl2:${MODEL_DIR}/YuE-s1-7B-anneal-en-icl-exl2-8.0bpw"
 MODELS_EXL2["YuE-s2-1B-general-exl2-3.0bpw"]="Alissonerdx/YuE-s2-1B-general-exl2-3.0bpw:${MODEL_DIR}/YuE-s2-1B-general-exl2-3.0bpw"
 MODELS_EXL2["YuE-s2-1B-general-exl2-4.0bpw"]="Alissonerdx/YuE-s2-1B-general-exl2-4.0bpw:${MODEL_DIR}/YuE-s2-1B-general-exl2-4.0bpw"
 MODELS_EXL2["YuE-s2-1B-general-exl2-5.0bpw"]="Alissonerdx/YuE-s2-1B-general-exl2-5.0bpw:${MODEL_DIR}/YuE-s2-1B-general-exl2-5.0bpw"
