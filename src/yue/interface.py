@@ -505,7 +505,7 @@ def build_gradio_interface():
             )
             
             genre_textarea = gr.Textbox(
-                visible=False,
+                visible=True,
             )
             
             genre_select.change(
